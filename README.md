@@ -12,6 +12,7 @@
 2. [Tech Stack](#Tech-Stack)
 3. [Using Tool](#Using-Tool)
 4. [Application](#Application)
+5. [GitHub Stats](#GitHub-Stats)
 
 Language
 ======================
@@ -30,3 +31,7 @@ Application
 <img src="https://img.shields.io/static/v1?label=GooglePlay&message=ParkMaro&color=blueviolet&style=plastic&logo=googleplay"/>
 
 📅 [재획 캘린더 - 나의 메이플 사냥 일지](https://play.google.com/store/apps/details?id=pp.sy.psyapplication)
+
+GitHub Stats
+======================
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksy0109)](https://github.com/깃허브아이디/github-readme-stats)
