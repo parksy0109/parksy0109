@@ -1,5 +1,7 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6940DD&text=🕹️ParkMaro's%20Github🕹️&animation=fadeIn"/>
+  <a href="https://github.com/parksy0109">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6940DD&text=🕹️ParkMaro's%20Github🕹️&animation=fadeIn"/>
+  </a>
 </p>
 <p align='center'>Welcome👋</p>
 <br>
