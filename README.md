@@ -32,6 +32,8 @@ Application
 ======================
 <img src="https://img.shields.io/static/v1?label=GooglePlay&message=ParkMaro&color=blueviolet&style=plastic&logo=googleplay"/>
 
+🔢 [카운팅 앱 - 천의 자리수 카운트기](https://play.google.com/store/apps/details?id=com.github.parksy0109)
+
 📅 [재획 캘린더 - 나의 메이플 사냥 일지](https://play.google.com/store/apps/details?id=pp.sy.psyapplication)
 
 GitHub Stats
