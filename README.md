@@ -15,6 +15,7 @@
 3. [Using Tool](#Using-Tool)
 4. [Application](#Application)
 5. [GitHub Stats](#GitHub-Stats)
+6. [Leetcode Stats](#Leetcode-Stats)
 
 Language
 ======================
@@ -39,3 +40,7 @@ Application
 GitHub Stats
 ======================
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksy0109)](https://github.com/깃허브아이디/github-readme-stats)
+
+Leetcode Stats
+======================
+![Leetcode Stats](https://leetcard.jacoblin.cool/parksy0109)
