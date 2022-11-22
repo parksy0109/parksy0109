@@ -43,4 +43,4 @@ GitHub Stats
 
 Leetcode Stats
 ======================
-![Leetcode Stats](https://leetcard.jacoblin.cool/parksy0109)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/parksy0109)](https://leetcode.com/parksy0109)
