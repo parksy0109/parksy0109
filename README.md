@@ -37,6 +37,8 @@ Application
 
 📅 [재획 캘린더 - 나의 메이플 사냥 일지](https://play.google.com/store/apps/details?id=pp.sy.psyapplication)
 
+📋 [간편 계산기 - Simple Calculator](https://play.google.com/store/apps/details?id=com.maro.calculator)
+
 GitHub Stats
 ======================
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksy0109)](https://github.com/깃허브아이디/github-readme-stats)
